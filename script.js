@@ -54,39 +54,39 @@ const questions = [
         ]
     },
     {
-        question: "Which  is the smallest country in the world?",
+        question: "What is the capital city of Australia?",
         answers: [
-            {text:"Vatican City",correct: true},
-            {text:"Bhutan",correct: false},
-            {text:"Nepal",correct: false},
-            {text:"Sri Lanka",correct: false},
+            {text:"Sydney",correct: false},
+            {text:"Melbourne",correct: false},
+            {text:"Canberra",correct: true},
+            {text:"Brisbane",correct: false},
         ]
     },
     {
-        question: "Which  is the smallest country in the world?",
+        question: "Which of the following mountain ranges is the longest in the world?",
         answers: [
-            {text:"Vatican City",correct: true},
-            {text:"Bhutan",correct: false},
-            {text:"Nepal",correct: false},
-            {text:"Sri Lanka",correct: false},
+            {text:"Andes",correct: false},
+            {text:"Himalayas",correct: true},
+            {text:"Alps",correct: false},
+            {text:"Rockies",correct: false},
         ]
     },
     {
-        question: "Which  is the smallest country in the world?",
+        question: "Which continent is known as the 'Land of the Rising Sun'?",
         answers: [
-            {text:"Vatican City",correct: true},
-            {text:"Bhutan",correct: false},
-            {text:"Nepal",correct: false},
-            {text:"Sri Lanka",correct: false},
+            {text:"Asia",correct: true},
+            {text:"Africa",correct: false},
+            {text:"Australia",correct: false},
+            {text:"Europe",correct: false},
         ]
     },
     {
-        question: "Which  is the smallest country in the world?",
+        question: "Which river is the longest in the world?",
         answers: [
-            {text:"Vatican City",correct: true},
-            {text:"Bhutan",correct: false},
-            {text:"Nepal",correct: false},
-            {text:"Sri Lanka",correct: false},
+            {text:"Yangtze",correct: false},
+            {text:"Amazon",correct: false},
+            {text:"Nile",correct: true},
+            {text:"Mississippi",correct: false},
         ]
     },
 ];
